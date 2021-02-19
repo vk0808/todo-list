@@ -1,6 +1,10 @@
 # todo-list
 Created with CodeSandbox
 
+<br><br>
+To view demo [Clicke here](https://csb-1qgyj.netlify.app/) <br>
+To view on CodeSandbox [Click here](https://codesandbox.io/s/github/vk0808/todo-list)
+
 ## Quick start:
 ### Install Dependencies
 ```sh
